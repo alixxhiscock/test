@@ -5,7 +5,7 @@ class Dog:
         self.color = color
         self.name = name
     def speak(self):
-        print(f"my name is {self.name}....")
+        print(f"my name is {self.name}....................")
 
 if __name__ == '__main__':
     peter = Dog("Peter", "Black")
